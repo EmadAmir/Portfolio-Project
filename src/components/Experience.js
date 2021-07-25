@@ -10,7 +10,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h4>October 2015- January 2017</h4>
+            <h3>October 2015- January 2017</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
               tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
@@ -25,7 +25,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h4>January 2017- August 2018</h4>
+            <h3>January 2017- August 2018</h3>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
               tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
@@ -40,7 +40,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h4>March 2021- June 2021</h4>     <p>
+            <h3>March 2021- June 2021</h3>     <p>
               Lorem ipsum dolor sit a4et, consectetur adipiscing elh4. Quisque
               tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
               neque interdum luctus. Mauris vehicula congue malesuada. Sed
@@ -54,7 +54,7 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h4>October 2020- Present</h4>         <p>
+            <h3>October 2020- Present</h3>         <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
               tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
               neque interdum luctus. Mauris vehicula congue malesuada. Sed

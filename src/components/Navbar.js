@@ -47,7 +47,7 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="/#">
-                GitHub 
+                Demo Projects
               </a>
             </li>
             <li className="nav-item">
