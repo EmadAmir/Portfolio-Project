@@ -1,7 +1,7 @@
 {
   "name": "portfolio-project",
   "version": "0.1.0",
-  "homepage": "https://github.com/EmadAmir/Portfolio-Project",
+  "homepage": "https://emadamir.github.io/Portfolio-Project/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
