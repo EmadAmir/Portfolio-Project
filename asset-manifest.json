@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/EmadAmir/Portfolio-Project/static/css/main.94526816.chunk.css",
+    "main.js": "/EmadAmir/Portfolio-Project/static/js/main.f12aadf4.chunk.js",
+    "main.js.map": "/EmadAmir/Portfolio-Project/static/js/main.f12aadf4.chunk.js.map",
+    "runtime-main.js": "/EmadAmir/Portfolio-Project/static/js/runtime-main.f02611d3.js",
+    "runtime-main.js.map": "/EmadAmir/Portfolio-Project/static/js/runtime-main.f02611d3.js.map",
+    "static/css/2.dbca8ffb.chunk.css": "/EmadAmir/Portfolio-Project/static/css/2.dbca8ffb.chunk.css",
+    "static/js/2.05b231a6.chunk.js": "/EmadAmir/Portfolio-Project/static/js/2.05b231a6.chunk.js",
+    "static/js/2.05b231a6.chunk.js.map": "/EmadAmir/Portfolio-Project/static/js/2.05b231a6.chunk.js.map",
+    "static/js/3.fca2ce46.chunk.js": "/EmadAmir/Portfolio-Project/static/js/3.fca2ce46.chunk.js",
+    "static/js/3.fca2ce46.chunk.js.map": "/EmadAmir/Portfolio-Project/static/js/3.fca2ce46.chunk.js.map",
+    "index.html": "/EmadAmir/Portfolio-Project/index.html",
+    "static/css/2.dbca8ffb.chunk.css.map": "/EmadAmir/Portfolio-Project/static/css/2.dbca8ffb.chunk.css.map",
+    "static/css/main.94526816.chunk.css.map": "/EmadAmir/Portfolio-Project/static/css/main.94526816.chunk.css.map",
+    "static/js/2.05b231a6.chunk.js.LICENSE.txt": "/EmadAmir/Portfolio-Project/static/js/2.05b231a6.chunk.js.LICENSE.txt",
+    "static/media/Fav Movie.7bbc0c42.PNG": "/EmadAmir/Portfolio-Project/static/media/Fav Movie.7bbc0c42.PNG",
+    "static/media/Monster Game.b0270329.PNG": "/EmadAmir/Portfolio-Project/static/media/Monster Game.b0270329.PNG",
+    "static/media/Movies Data.c6b3fc19.PNG": "/EmadAmir/Portfolio-Project/static/media/Movies Data.c6b3fc19.PNG",
+    "static/media/avatar1.787946b9.jpg": "/EmadAmir/Portfolio-Project/static/media/avatar1.787946b9.jpg",
+    "static/media/avatar2.ec6f036c.jpg": "/EmadAmir/Portfolio-Project/static/media/avatar2.ec6f036c.jpg",
+    "static/media/avatar3.d84c1120.jpg": "/EmadAmir/Portfolio-Project/static/media/avatar3.d84c1120.jpg",
+    "static/media/avatar4.e59d57a2.jpg": "/EmadAmir/Portfolio-Project/static/media/avatar4.e59d57a2.jpg",
+    "static/media/avatar5.b971fa10.jpg": "/EmadAmir/Portfolio-Project/static/media/avatar5.b971fa10.jpg",
+    "static/media/App.css": "/EmadAmir/Portfolio-Project/static/media/testimonial-bg.25ff33b3.png",
+    "static/media/me.b8efd9f2.jpg": "/EmadAmir/Portfolio-Project/static/media/me.b8efd9f2.jpg",
+    "static/media/rock_paper_scissor.549ab7bb.PNG": "/EmadAmir/Portfolio-Project/static/media/rock_paper_scissor.549ab7bb.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f02611d3.js",
+    "static/css/2.dbca8ffb.chunk.css",
+    "static/js/2.05b231a6.chunk.js",
+    "static/css/main.94526816.chunk.css",
+    "static/js/main.f12aadf4.chunk.js"
+  ]
+}
