@@ -169,7 +169,7 @@ const Portfolio = () => {
   };
 // Note: Image Sizes are 1080px * 600px
   return (
-    <div className="portfolio-wrapper">
+    <div id="demo" className="portfolio-wrapper">
       <div className="container">
         <h1 className="text-uppercase text-center my-5">Demo Projects</h1>
         {/* //className="image-box-wrapper d-flex justify-content-center" */}
