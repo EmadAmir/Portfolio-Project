@@ -15,7 +15,7 @@ const AboutMe = () => {
           <p>
           A front-end developer || Software developer with professional experience, based in Ireland. As a developer I have keen eye for detail, and determination to deliver the very highest quality. I take great pride in my work. National and international customers have relied on me for design, implementation, and management of their digital products.
 I like to write semantic, cross browser compatible re-usable code, maintainable and easy to understand.
-The main areas of my expertise are HTML5, CSS3, Sass, Bootstrap 5, JavaScript, ReactJs, eCommerce Websites custom website or by using WordPress WooCommerce. Apart from this I have worked with MVP Studio to build various web applications using ASP.NET Core, Entity Framework with SQL Database
+The main areas of my expertise are HTML5, CSS3, Sass, Bootstrap 5, JavaScript, ReactJs, eCommerce Websites custom website or by using WordPress WooCommerce. Apart from this I have worked with MVP Studio to build various web applications using ASP.NET Core, Entity Framework with SQL Database.
 
           </p>
         </div>
