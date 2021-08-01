@@ -13,22 +13,10 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            I love to interact with new people. It doesn't matter if you are a
-            coach or a competitor. I always see that as a way of growth by
-            interacting with great individuals. Overthinking is the greatest
-            enemy whom I never see. When I face problems in life, I always find
-            an excellent or weird way to solve it. But never run away from it.
-            That's one way I practice growth. I believe through design and
-            technology; we can ease consumer society. I have been in love with
-            programming since 2008 when I wrote my first program using "Who
-            wants to be a millionaire" using Java. I am a Full Stack Web
-            Developer, Technical Consultant, C# Developer. Learning has always
-            been Constant and never-ending, currently learning Python and AWS
-            web services. I have a bachelor's degree in Computer Science
-            Engineering, a Master's degree in Information Systems with
-            computing, and three years of work experience in IT. I'm pragmatic,
-            straight to the point, and all about building reliable, robust,
-            fit-to-the-problem solutions using the best-suited technology.
+          A front-end developer || Software developer with professional experience, based in Ireland. As a developer I have keen eye for detail, and determination to deliver the very highest quality. I take great pride in my work. National and international customers have relied on me for design, implementation, and management of their digital products.
+I like to write semantic, cross browser compatible re-usable code, maintainable and easy to understand.
+The main areas of my expertise are HTML5, CSS3, Sass, Bootstrap 5, JavaScript, ReactJs, eCommerce Websites custom website or by using WordPress WooCommerce. Apart from this I have worked with MVP Studio to build various web applications using ASP.NET Core, Entity Framework with SQL Database
+
           </p>
         </div>
       </div>

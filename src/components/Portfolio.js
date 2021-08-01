@@ -221,7 +221,7 @@ const Portfolio = () => {
       <div className="container">
         <h1 className="text-uppercase text-center my-5">Demo Projects</h1>
         {/* //className="image-box-wrapper d-flex justify-content-center" */}
-        <div className="row gy-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5  d-flex justify-content-center">
+        <div className="row gy-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4  d-flex justify-content-center">
         {/* <div className="row gy-2 row-col-md-8 row-col-6 row-col-md-4  d-flex justify-content-center"> */}
         <div
             className="col portfolio-image-box"
