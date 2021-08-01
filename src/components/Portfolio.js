@@ -3,6 +3,7 @@ import FavMovie from '../images/Fav Movie.PNG';
 import MonsterGame from '../images/Monster Game.PNG';
 import MovieData from '../images/Movies Data.PNG';
 import RPS from '../images/rock_paper_scissor.PNG';
+import Yoga from '../images/yoga.PNG';
 // import PortfolioImage from '../images/portfolio-website.PNG';
 // FONT AWESOME IMPORTS
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -12,6 +13,53 @@ import 'react-popupbox/dist/react-popupbox.css';
 import { PopupboxManager, PopupboxContainer } from 'react-popupbox';
 
 const Portfolio = () => {
+
+  const openPopupboxYogaWebsite = () => {
+    const content = (
+      <>
+        <img
+          className="portfolio-image-popupbox"
+          src={Yoga}
+          alt="Yoga Website"
+        />
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
+          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
+          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
+          exercitationem numquam totam.
+        </p>
+        <b>Demo:</b>
+        <a
+          className="hyper-link"
+          onClick={() =>
+            window.open('https://emadamir.github.io/yoga-client-website/','_blank')
+          }
+        >
+          https://emadamir.github.io/yoga-client-website/
+        </a>
+        <br/>
+        <b>GitHub:</b>
+        <a
+          className="hyper-link"
+          onClick={() =>
+            window.open('https://github.com/EmadAmir/favorite-movies')
+          }
+        >
+          https://github.com/EmadAmir/favorite-movies
+        </a>
+      </>
+    );
+    PopupboxManager.open({ content });
+  };
+
+  const popupboxConfigYogaWebsite = {
+    titleBar: {
+      enable: false,
+      text: 'Favourite Movies.'
+    },
+    fadeIn: true,
+    fadeInSpeed: 500
+  };
   //favourite movies
   const openPopupboxFavMovies = () => {
     const content = (
@@ -175,6 +223,19 @@ const Portfolio = () => {
         {/* //className="image-box-wrapper d-flex justify-content-center" */}
         <div className="row gy-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5  d-flex justify-content-center">
         {/* <div className="row gy-2 row-col-md-8 row-col-6 row-col-md-4  d-flex justify-content-center"> */}
+        <div
+            className="col portfolio-image-box"
+            onClick={openPopupboxYogaWebsite}
+          >
+            <img
+              // className="portfolio-image "
+              className="portfolio-image"
+              src={Yoga}
+              alt="Favourite Movies"
+            />
+            <div className="overflow"></div>
+            <FontAwesomeIcon className="portfolio-icon" icon={faSearchPlus} />
+          </div>
           <div
             className="col portfolio-image-box"
             onClick={openPopupboxFavMovies}
@@ -232,6 +293,7 @@ const Portfolio = () => {
           </div>
         </div>
       </div>
+      <PopupboxContainer {...popupboxConfigYogaWebsite} />
       <PopupboxContainer {...popupboxConfigFavMovies} />
       <PopupboxContainer {...popupboxConfigMonsterGame} />
       <PopupboxContainer {...popupboxConfigMoviesData} />
