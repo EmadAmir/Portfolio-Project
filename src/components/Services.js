@@ -20,8 +20,7 @@ const Services = () => {
               </div>
               <h4> Web Design</h4>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                randomised words which don't look even slightly believable.
+              Design high quality and very Professional Web Design and fully Responsive Website Design focused on specific business needs, which are of the highest quality using WordPress or custom-built website. 
               </p>
             </div>
           </div>
@@ -33,8 +32,7 @@ const Services = () => {
               </div>
               <h4>Web Development</h4>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                randomised words which don't look even slightly believable.
+              Undertake the full development lifecycle of a web application. Produce high quality software solutions within time and budget. Provide Support for the existing application. 
               </p>
             </div>
           </div>
@@ -46,8 +44,7 @@ const Services = () => {
               </div>
               <h4>Front-End Developer</h4>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                randomised words which don't look even slightly believable.
+              Contributing towards building, maintaining, and deploying our frontend applications, focusing on application logic, state management, UI components and external interfaces for 3rd party integration.
               </p>
             </div>
           </div>
@@ -57,10 +54,9 @@ const Services = () => {
               <div className="circle">
                 <FontAwesomeIcon className="icon" icon={faFileCode} size="2x" />
               </div>
-              <h4> dotNet Developer</h4>
+              <h4> Software Developer</h4>
               <p>
-                There are many variations of passages of Lorem Ipsum available,
-                randomised words which don't look even slightly believable.
+              Developing, designing, and maintaining software applications and services written in languages such as C# .NET and JavaScript. Along with designing and developing database interfaces and database applications.
               </p>
             </div>
           </div>
