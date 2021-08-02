@@ -1,5 +1,6 @@
 //rafce + tap
-import React from 'react'
+import React from 'react';
+import {Link} from "react-scroll";
 import Typed from "react-typed";
 
 
@@ -14,8 +15,11 @@ const Header = () => {
                typeSpeed={30}
                backSpeed={50}
                loop
-               /> 
-               <a href="/#" className="btn-main-offer">Contact Me</a>
+               />
+               <Link smooth={false} to="contacts" offset={-110} className="btn-main-offer" href="/#">
+                Contacts
+              </Link> 
+               {/* <a href="/#" className="btn-main-offer">Contact Me</a> */}
             </div>
             
         </div>
