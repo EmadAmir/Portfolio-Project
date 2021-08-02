@@ -2,7 +2,8 @@ import React from 'react';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 //ADDING AVATARS    https://randomuser.me/api/portraits/women/2.jpg
-// import avatar1 from '../avatar/avatar1.jpg';
+import Kunal from '../avatar/kunal.jfif';
+import Suma from '../avatar/Suma.jfif';
 // import avatar2 from '../avatar/avatar2.jpg';
 // import avatar3 from '../avatar/avatar3.jpg';
 // import avatar4 from '../avatar/avatar4.jpg';
@@ -23,7 +24,7 @@ const TestimonialsCarousel = () => {
       <>
         <img src="https://randomuser.me/api/portraits/women/2.jpg" alt="Sheetal Schofield" className="pt-2" />
         <div className="myCarousal">
-          <h3>Sheetal Schofield</h3>
+          <h4>Sheetal Schofield</h4>
           <p className="lead">
           Amir is a professional, hard-working individual, who's always willing to rise up to any challenge.
           </p>
@@ -32,45 +33,37 @@ const TestimonialsCarousel = () => {
       <>
         <img src="https://randomuser.me/api/portraits/men/26.jpg" alt="Sam Hobbs" className="pt-2"/>
         <div className="myCarousal">
-          <h3>Sam Hobbs</h3>
+          <h4>Sam Hobbs</h4>
           <p className="lead">
           Emad is a very capable front end developer who takes pride in his work, always willing to help and put in that little bit of extra effort to help others.
           </p>
         </div>
       </>
       <>
-        <img src="https://randomuser.me/api/portraits/women/24.jpg" alt="John Doe3" className="pt-2" />
+        <img src={Suma} alt="Suma" className="pt-2" />
         <div className="myCarousal">
-          <h3>John Doe3</h3>
+          <h4>Suma Narayanappa - Social Media Strategist</h4>
           <p className="lead">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. In eius
-            error quaerat sunt placeat illo aliquam quas molestias laboriosam
-            quia, est ut nesciunt nulla officiis animi quos doloribus quis
-            adipisci.
+          Emad was very helpful and fast to respond to my inquiry to help with Wordpress website issues.  His knowledge was comprehensive.  Even better, his advice helped me enough to solve the problems and he did not accept any payment for this, very straight up guy! Thank you Emad.
           </p>
         </div>
       </>
       <>
-        <img src="https://randomuser.me/api/portraits/men/34.jpg" alt="John Doe4" className="pt-2" />
+        <img src={Kunal} alt="Kunal" className="pt-2" />
         <div className="myCarousal">
-          <h3>John Doe4</h3>
+          <h4>kunal Kisku - <small>Business Development Manager, Industry Connect Ireland</small> </h4>
+          
           <p className="lead">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. In eius
-            error quaerat sunt placeat illo aliquam quas molestias laboriosam
-            quia, est ut nesciunt nulla officiis animi quos doloribus quis
-            adipisci.
+          Without doubt one of the most talented programmers out there.  I always go back to Emad Amir when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed.
           </p>
         </div>
       </>
       <>
-        <img src="https://randomuser.me/api/portraits/men/20.jpg" alt="John Doe5" className="pt-2" />
+        <img src="https://randomuser.me/api/portraits/women/20.jpg" alt="Renn Haus" className="pt-2" />
         <div className="myCarousal">
-          <h3>John Doe5</h3>
+          <h4>Renn Haus</h4>
           <p className="lead">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. In eius
-            error quaerat sunt placeat illo aliquam quas molestias laboriosam
-            quia, est ut nesciunt nulla officiis animi quos doloribus quis
-            adipisci.
+          Emad is very easy to work with. I was amazed at how efficiently he works. My project was done well ahead of schedule and I'm happy with the final result.
           </p>
         </div>
       </>

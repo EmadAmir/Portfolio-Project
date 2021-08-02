@@ -464,10 +464,10 @@ nav ul li {
   padding-bottom: 8%;
   padding-left: 5%;
   padding-right: 5%;
-  height: 17.875rem;
+  height: 20.875rem;
 }
 
-.myCarousal h3 {
+.myCarousal h4 {
   color: var(--primary-orange);
   font-weight: 600;
   text-transform: uppercase;
