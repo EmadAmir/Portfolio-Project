@@ -22,11 +22,9 @@ const Portfolio = () => {
           src={Yoga}
           alt="Yoga Website"
         />
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
-          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
-          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
-          exercitationem numquam totam.
+        <h3 className="proj pt-1">Yoga Website</h3>
+        <p >
+          Yoga classes enrollment Website design using HTML5, SASS and Bootstrap 5. 
         </p>
         <b>Demo:</b>
         <a
@@ -69,11 +67,9 @@ const Portfolio = () => {
           src={FavMovie}
           alt="Favourite movies"
         />
+        <h3 className="proj pt-1">Favourite Movies</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
-          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
-          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
-          exercitationem numquam totam.
+          Favourite Movies web application using HTML5, CSS, Vanilla Javascript. The user can add favourite movies and provide its rating.
         </p>
         <b>GitHub:</b>
         <a
@@ -107,11 +103,9 @@ const Portfolio = () => {
           src={MonsterGame}
           alt="Monster Game"
         />
+        <h3 className="proj pt-1">Monster Game</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
-          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
-          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
-          exercitationem numquam totam.
+          This web application is built on HTML5, CSS, Vanilla Javascript. The user can attact the monster and has a heal functionality.
         </p>
         <b>GitHub:</b>
         <a
@@ -147,11 +141,9 @@ const Portfolio = () => {
           src={MovieData}
           alt="Movie Data Manager"
         />
+        <h3 className="proj pt-1">Movies Data Manager</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
-          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
-          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
-          exercitationem numquam totam.
+          The Movies Data Manager application is built on HTML5, CSS, Vanilla Javascript which will help the user to find movies on a personal database.
         </p>
         <b>GitHub:</b>
         <a
@@ -185,11 +177,9 @@ const Portfolio = () => {
           src={RPS}
           alt="Rock Paper Scissor Game"
         />
+        <h3 className="proj pt-1">Rock Paper Scissor</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro velit
-          eum ipsam fugiat laudantium alias nobis reiciendis veniam architecto
-          laboriosam nostrum placeat, consectetur est iste iusto, nesciunt
-          exercitationem numquam totam.
+          Rock Paper Scissor is built on HTML5, CSS, Vanilla Javascript.
         </p>
         <b>GitHub:</b>
         <a
@@ -221,7 +211,7 @@ const Portfolio = () => {
       <div className="container">
         <h1 className="text-uppercase text-center my-5">Demo Projects</h1>
         {/* //className="image-box-wrapper d-flex justify-content-center" */}
-        <div className="row gy-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-4  d-flex justify-content-center">
+        <div className="row gy-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-5  d-flex justify-content-center">
         {/* <div className="row gy-2 row-col-md-8 row-col-6 row-col-md-4  d-flex justify-content-center"> */}
         <div
             className="col portfolio-image-box"

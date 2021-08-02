@@ -322,13 +322,15 @@ nav ul li {
     position: relative;
     margin: 0rem;
   }
+  
+}
   @media (min-width: 767px) {
     .portfolio-image-box {
       position: relative;
       margin: 1.1rem;
     }
   }
-}
+
 @media (min-width: 991px) {
   .portfolio-image-box {
     position: relative;
@@ -382,7 +384,12 @@ nav ul li {
   margin-top: 5rem;
 }
 
-/***************POPUP BOX********************/
+/***************POPUP BOX*****************************************************/
+.proj{
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--primary-hover-red);
+}
 .portfolio-image-popupbox {
   width: 45rem;
   padding: 0 0.5rem;
@@ -402,6 +409,7 @@ nav ul li {
   }
 }
 @media (max-height: 570px) {
+  
   .popupbox-wrapper {
     height: 100%;
   }

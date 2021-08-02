@@ -11,13 +11,10 @@ const Experience = () => {
           <div className="marker"></div>
           <div className="timeline-content">
             <h3>October 2015- January 2017</h3>
+            <h4>convergys India Services pvt ltd</h4>
+            <p className="lead">Techical Support Associate</p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
-              neque interdum luctus. Mauris vehicula congue malesuada. Sed
-              dignissim non tortor ut tincidunt. Nullam vel erat elit.
-              Suspendisse sit amet arcu tincidunt, lacinia nunc eu, blandit
-              lorem. Vestibulum sollicitudin massa ligula.
+            Coordinate with the Developers and the clients to improve the supportability and Diagnose the potential bottlenecks and provide Web application Support.
             </p>
           </div>
         </div>
@@ -26,13 +23,12 @@ const Experience = () => {
           <div className="marker"></div>
           <div className="timeline-content">
             <h3>January 2017- August 2018</h3>
+            <h4>Regalix India pvt ltd</h4>
+            <p className="lead">Front-End Developer</p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
-              neque interdum luctus. Mauris vehicula congue malesuada. Sed
-              dignissim non tortor ut tincidunt. Nullam vel erat elit.
-              Suspendisse sit amet arcu tincidunt, lacinia nunc eu, blandit
-              lorem. Vestibulum sollicitudin massa ligula.
+Developed Front End components mainly using JavaScript framework React.js, JSX in coordination with senior
+React developers.<br/>
+
             </p>
           </div>
         </div>
@@ -40,13 +36,12 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>March 2021- June 2021</h3>     <p>
-              Lorem ipsum dolor sit a4et, consectetur adipiscing elh4. Quisque
-              tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
-              neque interdum luctus. Mauris vehicula congue malesuada. Sed
-              dignissim non tortor ut tincidunt. Nullam vel erat elit.
-              Suspendisse sit amet arcu tincidunt, lacinia nunc eu, blandit
-              lorem. Vestibulum sollicitudin massa ligula.
+            <h3>March 2021- June 2021</h3>   
+            <h4>Digital Salon Group - Ireland</h4>
+            <p className="lead">Junior Web Developer</p>
+              <p>
+              Designing using fully responsive WordPress eCommerce website with client requirements. 
+              Managed Google Tag Manager for various clients eCommerce setup.
             </p>
           </div>
         </div>
@@ -54,13 +49,11 @@ const Experience = () => {
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>October 2020- Present</h3>         <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              tincidunt gravida odio eget bibendum. Phasellus aliquet massa nec
-              neque interdum luctus. Mauris vehicula congue malesuada. Sed
-              dignissim non tortor ut tincidunt. Nullam vel erat elit.
-              Suspendisse sit amet arcu tincidunt, lacinia nunc eu, blandit
-              lorem. Vestibulum sollicitudin massa ligula.
+            <h3>October 2020- Present</h3>
+            <h4>MVP Studio - Ireland</h4>
+            <p className="lead">Software Developer Intern</p>
+                     <p>
+              Developing Web Applications using MVC ASP.NET Core with SQL Server and Front-End Reactjs. 
             </p>
           </div>
         </div>
