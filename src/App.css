@@ -448,7 +448,7 @@ nav ul li {
 
 .testimonials-content {
   text-align: center;
-  max-width: 53.125rem;
+  max-width: 83.125rem;
   margin: 0 auto 2rem auto;
   background: var(--primary-transparent-black);
 }
@@ -490,6 +490,19 @@ nav ul li {
   margin: auto !important;
   margin-top: 3% !important;
 }
+
+
+@media (max-width: 768px) {
+  .myCarousal p {
+    font-size: 0.80rem;
+  }
+
+  .myCarousal h4 {
+    font-size: 1rem;
+  }
+  
+}
+
 /* ******************************CONTACT ME ****************************************** */
 
 .contacts {
