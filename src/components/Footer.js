@@ -56,7 +56,7 @@ return (
               <br />
               <div className="footer-nav">
               <Link smooth={false} to="demo" offset={-110} className="nav-link" href="/#">
-              Demo Projects
+              Projects
             </Link>
               </div>
               <br />
