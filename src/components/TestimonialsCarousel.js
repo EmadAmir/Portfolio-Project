@@ -40,11 +40,11 @@ const TestimonialsCarousel = () => {
         </div>
       </>
       <>
-        <img src={Suma} alt="Suma" className="pt-2" />
+        <img src="https://randomuser.me/api/portraits/women/26.jpg" alt="Rochelle" className="pt-2" />
         <div className="myCarousal">
-          <h4>Suma Narayanappa - Social Media Strategist</h4>
+          <h4>Rochelle Megan - Web Developer</h4>
           <p className="lead">
-          Emad was very helpful and fast to respond to my inquiry to help with Wordpress website issues.  His knowledge was comprehensive.  Even better, his advice helped me enough to solve the problems and he did not accept any payment for this, very straight up guy! Thank you Emad.
+          Emad was very flexible and worked hard to ensure that the final result was as per our very specific vision.  Even better, his advice helped me enough to solve the problems, very straight up guy! Thank you Emad.
           </p>
         </div>
       </>
