@@ -54,7 +54,17 @@ const TestimonialsCarousel = () => {
           <h4>kunal Kisku - <small>Business Development Manager, Industry Connect Ireland</small> </h4>
           
           <p className="lead">
-          Without doubt one of the most talented programmers out there.  I always go back to Emad Amir when I'm out of my depth and he's never failed to deliver what I ask for.   Smart, trustworthy and professional.   You won't be disappointed.
+          Without doubt one of the most talented programmers out there.I always go back to Emad Amir when I'm out of my depth and he's never failed to deliver what I ask for. Smart, trustworthy and professional.You won't be disappointed.
+          </p>
+        </div>
+      </>
+      <>
+        <img src={Suma} alt="Suma" className="pt-2" />
+        <div className="myCarousal">
+          <h4>Suma Narayanappa - <small>Social Media Strategist</small> </h4>
+          
+          <p className="lead">
+          I worked with Emad to build my website. He was extremely insightful with techniques to optimize the website. He was professional and completed the project on time. He was also available for extra support after the work was completed.
           </p>
         </div>
       </>
