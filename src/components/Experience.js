@@ -49,11 +49,24 @@ React developers.<br/>
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>October 2020- Present</h3>
+            <h3>October 2020 - November 2021</h3>
             <h4>MVP Studio - Ireland</h4>
-            <p className="lead">Software Developer Intern</p>
+            <p className="lead">Software Developer</p>
                      <p>
               Developing Web Applications using MVC ASP.NET Core with SQL Server and Front-End Reactjs. 
+            </p>
+          </div>
+        </div>
+        {/*  */}
+        <div className="timeline-block timeline-block-right">
+          <div className="marker"></div>
+          <div className="timeline-content">
+            <h3>November 2021 - Present</h3>   
+            <h4>GameStop</h4>
+            <p className="lead">Junior Software Developer</p>
+              <p>
+             Worked in Agile environment to develop features for Ireland, Canada, DACh and Italy.
+             Developing features using MVC ASP.NET framework, Angular 11 for Cart and Checkout and SQL server for database.
             </p>
           </div>
         </div>

@@ -17,7 +17,7 @@ return (
       <div className="row">
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="d-flex">
-            <p>4 Warrenstown park, Dublin 15, Ireland</p>
+            <p>1 Ashley Avenue, Swords, Dublin, Ireland</p>
           </div>
           <div className="d-flex">
             <a href="tel:0899869806">+353-899869806</a>
