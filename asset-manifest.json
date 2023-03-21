@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.512a4179.chunk.css",
-    "main.js": "/static/js/main.d994fcd3.chunk.js",
-    "main.js.map": "/static/js/main.d994fcd3.chunk.js.map",
+    "main.js": "/static/js/main.ce390878.chunk.js",
+    "main.js.map": "/static/js/main.ce390878.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0942abb0.js",
     "runtime-main.js.map": "/static/js/runtime-main.0942abb0.js.map",
     "static/css/2.dbca8ffb.chunk.css": "/static/css/2.dbca8ffb.chunk.css",
-    "static/js/2.8010ea1a.chunk.js": "/static/js/2.8010ea1a.chunk.js",
-    "static/js/2.8010ea1a.chunk.js.map": "/static/js/2.8010ea1a.chunk.js.map",
+    "static/js/2.0e66fe65.chunk.js": "/static/js/2.0e66fe65.chunk.js",
+    "static/js/2.0e66fe65.chunk.js.map": "/static/js/2.0e66fe65.chunk.js.map",
     "static/js/3.fca2ce46.chunk.js": "/static/js/3.fca2ce46.chunk.js",
     "static/js/3.fca2ce46.chunk.js.map": "/static/js/3.fca2ce46.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.dbca8ffb.chunk.css.map": "/static/css/2.dbca8ffb.chunk.css.map",
     "static/css/main.512a4179.chunk.css.map": "/static/css/main.512a4179.chunk.css.map",
-    "static/js/2.8010ea1a.chunk.js.LICENSE.txt": "/static/js/2.8010ea1a.chunk.js.LICENSE.txt",
+    "static/js/2.0e66fe65.chunk.js.LICENSE.txt": "/static/js/2.0e66fe65.chunk.js.LICENSE.txt",
     "static/media/Fav Movie.7bbc0c42.PNG": "/static/media/Fav Movie.7bbc0c42.PNG",
     "static/media/Monster Game.b0270329.PNG": "/static/media/Monster Game.b0270329.PNG",
     "static/media/Movies Data.c6b3fc19.PNG": "/static/media/Movies Data.c6b3fc19.PNG",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.0942abb0.js",
     "static/css/2.dbca8ffb.chunk.css",
-    "static/js/2.8010ea1a.chunk.js",
+    "static/js/2.0e66fe65.chunk.js",
     "static/css/main.512a4179.chunk.css",
-    "static/js/main.d994fcd3.chunk.js"
+    "static/js/main.ce390878.chunk.js"
   ]
 }
