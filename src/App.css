@@ -263,7 +263,7 @@ nav ul li {
   border: 0.3125rem solid var(--primary-dark);
   background: var(--primary-orange);
   margin-top: 0.625rem;
-  z-index: 3;
+  z-index: 1;
 }
 
 .timeline-content {
